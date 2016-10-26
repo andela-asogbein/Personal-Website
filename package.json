@@ -5,6 +5,7 @@
   "devDependencies": {
     "react-scripts": "0.6.1"
   },
+  "homepage": "http://jibolash.github.io/Personal-Website",
   "dependencies": {
     "react": "^15.3.2",
     "react-dom": "^15.3.2"
