@@ -43,5 +43,6 @@ body {
 }
 
 @media (max-width: 1200px) {
-   .pic-container { float: none; }
+   .pic-container { float: none; height: 500px;}
+   .bio-container { width: 100%; }
 }
