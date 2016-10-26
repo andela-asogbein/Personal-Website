@@ -3,3 +3,45 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.App {
+  margin: 50px;
+  text-align: left;
+  color: #646464;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.5;
+  font-family: 'ProximaNova','Proxima Nova', 'Helvetica Neue', 'sans-serif';
+}
+
+.link {
+    text-decoration: none;
+}
+
+.pic-container {
+    width: 50%;
+    float: left;
+    height: 700px;
+}
+
+.bio-container {
+    float: left;
+    width: 50%;
+}
+
+.pic {
+    height: inherit;
+}
+
+.footer {
+  position:fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #efefef;
+  text-align: center;
+}
+
+@media (max-width: 1200px) {
+   .pic-container { float: none; }
+}
