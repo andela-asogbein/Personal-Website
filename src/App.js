@@ -10,7 +10,7 @@ class App extends React.Component {
                 <hr></hr>
                 <p>I enjoy working Python/Flask or Node/Express on the backend and JavaScript/React on the frontend.</p>
                 <p>
-                    I write about web development and other related technologies<strong><a href="https://pub.scotch.io/@jibolash" className="link"> here</a></strong>
+                    I write about web development and other related technologies on <strong><a href="https://pub.scotch.io/@jibolash" className="link"> Scotch.io</a></strong>
                 </p>
                 <p>Outside of tech, I also write about music, politics and life in general on my
                     <strong><a href="https://jibolasogbein.tumblr.com" className="link"> Tumblr</a></strong> and on
